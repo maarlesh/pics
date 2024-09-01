@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 void main(){
-  const app = MaterialApp(
-    home: Text('Hello world')
+  var app = MaterialApp(
+    home: Scaffold(appBar: AppBar(
+      title: Text('Gallery')
+    ))
   );
   runApp(app);
 }
