@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' show get;
 
 class App extends StatefulWidget {
+  const App({super.key});
   @override
   State<StatefulWidget> createState() {
     return AppState();
@@ -9,6 +11,12 @@ class App extends StatefulWidget {
 
 class AppState extends State<App> {
   int counter = 0;
+  void  fetchImage() async{
+    setState(() {
+              counter += 1;
+    });
+    var result = await get(Uri.parse('https://jsonplaceholder.typicode.com/photos/$counter'));
+  }
 @override
   Widget build(context) {
     return MaterialApp(
@@ -16,9 +24,7 @@ class AppState extends State<App> {
         body: Text('$counter'),  
         floatingActionButton: FloatingActionButton(
           onPressed: () {
-            setState(() {
-              counter += 1;
-            });
+            fetchImage();
           },
           child: const Icon(Icons.add_a_photo_outlined),
         ),
