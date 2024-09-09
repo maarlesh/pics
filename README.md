@@ -28,9 +28,8 @@ This project demonstrates the basics of Flutter development. The following key c
    The `Image.network()` widget is used to display images from the internet in the app. This is useful for creating dynamic UIs with remote image sources.
 
 
-Screenshots: Progress
 
-1.
-   ![image](https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e)
-2.
-   ![image](https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca)
+# Screenshots: Progress
+
+1. <img src="https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e" alt="Progress Screenshot 1" width="600"/>
+2. <img src="https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca" alt="Progress Screenshot 2" width="600"/>
