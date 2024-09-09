@@ -8,6 +8,10 @@ class ImageModel{
     url = parsedJson['url'];
     title = parsedJson['title'];
   }
+  @override
+  String toString(){
+    return 'ImageModel{id: $id, url : $url}';
+  }
   //This can be written as
   // ImageModel.fromJson(Map<String, dynamic> parsedJson) :
   //   id = parsedJson['id'],
