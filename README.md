@@ -30,5 +30,7 @@ This project demonstrates the basics of Flutter development. The following key c
 
 Screenshots: Progress
 
-1. ![image](https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e)
-2. ![image](https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca)
+1.
+   ![image](https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e)
+2.
+   ![image](https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca)
