@@ -31,5 +31,5 @@ This project demonstrates the basics of Flutter development. The following key c
 
 # Screenshots: Progress
 
-<img src="https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e" alt="Progress Screenshot 1" width="200"/>
-<img src="https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca" alt="Progress Screenshot 2" width="200"/>
+<img src="https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e" alt="Progress Screenshot 1" width="300"/> <br>
+<img src="https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca" alt="Progress Screenshot 2" width="300"/>
