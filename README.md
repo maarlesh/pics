@@ -27,9 +27,13 @@ This project demonstrates the basics of Flutter development. The following key c
 7. **Displaying Images with Image.network()**  
    The `Image.network()` widget is used to display images from the internet in the app. This is useful for creating dynamic UIs with remote image sources.
 
+8. **Container**
+   Container is used for positioning the widgets. It can be used to add padding, border, margin same as of CSS
 
+9. **Layout**
+   Layout is used to contain two or more widgets together. It is similar to flex in CSS
 
-# Screenshots: Progress
+# Screenshots:
 
 <img src="https://github.com/user-attachments/assets/986ce94a-6ce2-4ea9-a235-c58e9b57453e" alt="Progress Screenshot 1" width="300"/> <br>
 <img src="https://github.com/user-attachments/assets/21b03513-ece1-40f7-be2d-7cf51aa5dcca" alt="Progress Screenshot 2" width="300"/>

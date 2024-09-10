@@ -10,7 +10,7 @@ class ImageModel{
   }
   @override
   String toString(){
-    return 'ImageModel{id: $id, url : $url}';
+    return 'ImageModel{id: $id, url : $url, title : $title}';
   }
   //This can be written as
   // ImageModel.fromJson(Map<String, dynamic> parsedJson) :
